@@ -50,7 +50,7 @@ body {
   box-sizing: border-box;
   display: none;
   background-color: white;
-  z-index: 1;
+ 
 }
 
 .menu-icon:hover .app-items {
@@ -116,7 +116,7 @@ input:focus {
   height: 30px;
   width: 30px;
   top: 8px;
-  right: -20px;
+  right: 20px;
 }
 
 button {
