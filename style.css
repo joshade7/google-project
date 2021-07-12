@@ -88,7 +88,7 @@ section {
   width: 582px;
   position: relative;
   margin: 0 auto;
-  z-index: -1;
+  z-index: 1;
 }
 
 input {
@@ -116,7 +116,7 @@ input:focus {
   height: 30px;
   width: 30px;
   top: 8px;
-  right: 20px;
+  right: 15px;
 }
 
 button {
